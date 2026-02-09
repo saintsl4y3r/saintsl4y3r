@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student & Aspiring Developer</h3>
 
 <div align="center">
-  <img src="akira-drift.gif" width="100%" max-width="800px" alt="Akira Slide">
+  <img src="./assests/akira-drift.gif" width="100%" max-width="800px" alt="Akira Slide">
 </div>
 
 <p align="center">
@@ -15,10 +15,27 @@
 
 ### 💫 About Me
 
-- 🎓 **Final year student** majoring in **Software Engineering** at UMT.
-- 🚀 Deeply interested in **Data Science** and **Automation Testing**.
+- 🎓 Currently learning: **Software Engineering**
+- 🚀 Deeply interested in **Software Developement** and **Game Developement**.
 - 🛠️ Currently working on my thesis: *Early Warning System for Motorcycle Cut-ins* using YOLO & LSTM/GRU.
-- 🎮 Fun fact: I've reached **Master Rank** in TFT for 6 consecutive sets (Set 11 to Set 16).
+- 🎮 Fun fact: I've reached **Master Rank** <img src="./assests/master-rank.webp" width="25" height="25" valign="middle"> in TFT for 6 consecutive sets:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Set 11: Inkborn Fabled</b><br><img src="./assests/tft-set-11.jpg" width="250"></td>
+      <td align="center"><b>Set 12: Magic N'Mayhem</b><br><img src="./assests/tft-set-12.jpg" width="250"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Set 13: Into the Arcane</b><br><img src="./assests/tft-set-13.jpg" width="250"></td>
+      <td align="center"><b>Set 14: Cyber City</b><br><img src="./assests/tft-set-14.jpg" width="250"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Set 15: K.O. Coliseum</b><br><img src="./assests/tft-set-15.jpg" width="250"></td>
+      <td align="center"><b>Set 16: Lore & Legends</b><br><img src="./assests/tft-set-16.jpg" width="250"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
