@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saintsl4y3r" alt="saintsl4y3r" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sieu2077" target="blank"><img src="https://img.shields.io/twitter/follow/sieu2077?logo=twitter&style=for-the-badge" alt="sieu2077" /></a> </p>
+
 - 💬 Ask me about **Software**
 
 - 📫 How to reach me **sieu2077@gmail.com**
 
-- ⚡ Fun fact **I reach Master Rank of Teamfight Tactics in 6 Set (Set 11: Inkborn Fables, Set 12: Magic N'Mayhem, Set 13: Into the Arcane, Set 14: Cyber City, Set 15: K.O. Coliseum, Set 16: Lore & Legends)**
+- ⚡ Fun fact **I reach Master Rank of Teamfight Tactics in 6 Set (Set 11: Inkborn Fables, Set 12: Magic N'Mayhem, Set 13: Into the Arcane, Set 14: Cyber City, Set 15: K.O Coliseum, Set 16: Lore & Legends)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saintsl4y3r&show_icons=true&locale=en&layout=compact" alt="saintsl4y3r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saintsl4y3r&show_icons=true&locale=en" alt="saintsl4y3r" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saintsl4y3r&" alt="saintsl4y3r" /></p>
